@@ -13,7 +13,12 @@ sw += ["les", "plus", "cette", "fait", "faire", "être", "deux", "comme", "dont"
        "ils", "bien", "sans", "peut", "tous", "après", "ainsi", "donc", "cet", "sous",
        "celle", "entre", "encore", "toutes", "pendant", "moins", "dire", "cela", "non",
        "faut", "trois", "aussi", "dit", "avoir", "doit", "contre", "depuis", "autres",
-       "van", "het", "autre", "jusqu", "ville"]
+       "van", "het", "autre", "jusqu", "ville", "trouve","mot","peu","tant","chaque",
+       "cependant", "assez","peu","beaucoup","car","trop","vient","très","alors","établir",
+       "telle","déjà","chose","part", "quant", "le","la","des","un","une", "madame", "monsieur",
+       "messieurs","mesdames","attendu","président","échevin","Monsieur le bourgmestre","van het",
+       "Collège van Burgemeester","approbation", "Burgemeester","voorbehoud van goedkeuring door de Provinciegouverneur", "suite", "motif",
+       "vient", "agit"]
 sw = set(sw)
 
 
